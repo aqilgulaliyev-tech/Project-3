@@ -32,7 +32,3 @@ This repo scaffolds a simple, responsive personal website that meets the SITE 11
 - Update social/profile links in the footer and hero buttons.
 - Adjust colors and spacing in `assets/css/styles.css`.
 
-## License
-MIT — feel free to adapt for your coursework.
-
-
