@@ -139,6 +139,7 @@ a { color: inherit; text-decoration: none; }
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
 }
+.project-image { width: 100%; max-width: 520px; border-radius: 12px; display: block; margin: 0 0 1rem; object-fit: cover; }
 .quick-meta {
   list-style: none;
   margin: 0;
